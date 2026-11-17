@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santamariarestoration.com/sitemap.xml
